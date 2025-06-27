@@ -1,2 +1,2 @@
-# location_analysis
-cheat sheets for location analysis procedures
+# trace contamination 
+기지국 위치와 가입자의 접속 이력을 바탕으로 DBSCAN을 사용해서 위험도 높은 군집 클러스터와 해당 클러스터에 속한 가입자의 시간대별 이동을 통해 감염 전파 경로 추적
